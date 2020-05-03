@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "400120977997",
+    "firebase_url": "https://brew-crew-808a0.firebaseio.com",
+    "project_id": "brew-crew-808a0",
+    "storage_bucket": "brew-crew-808a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400120977997:android:f861ab7723b2ced0d2da04",
+        "android_client_info": {
+          "package_name": "com.example.facebooklogintraining"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400120977997-ntbk3jbs96403r60s9g28gg1b6p9frlg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5YtpCnjwo8bkdEcc7JHxd_IfDcUdwerY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "400120977997-ntbk3jbs96403r60s9g28gg1b6p9frlg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
